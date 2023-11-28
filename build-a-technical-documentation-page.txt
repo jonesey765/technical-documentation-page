@@ -1,0 +1,82 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title id="title">Buckley the Labrador</title>
+    <link rel="stylesheet" href="./styles.css">
+    </head>
+  <body>
+    <nav id="navbar">
+      <header>Technical Documentation Page</header>
+      <ul>
+        <li><a class="nav-link" href="#introduction">Introduction</a></li>
+          <li><a class="nav-link" href="#topic_1">Topic 1</a></li>
+          <li><a class="nav-link" href="#topic_2">Topic 2</a></li>
+          <li><a class="nav-link" href="#topic_3">Topic 3</a></li>
+          <li><a class="nav-link" href="#topic_4">Topic 4</a></li>
+</ul>
+    </nav>
+  <main id="main-doc">
+    <section class="main-section" id="introduction">
+    <header>Introduction</header>
+    <article>
+      <p>Some text goes here</p>
+      <p>Some text goes here</p>
+      </article>
+      </section>
+    <section class="main-section" id="topic_1"><header>Topic 1</header>
+    <article>
+      <p>Some text goes here</p>
+      <p>Some text goes here</p>
+      <code>.main-section {width: 100%; margin: auto}</code><br>
+      <code>.main-section {width: 100%; margin: auto}</code><br>
+      <code>.main-section {width: 100%; margin: auto}</code><br>
+      <code>.main-section {width: 100%; margin: auto}</code><br>
+      <code>.main-section {width: 100%; margin: auto}</code>
+      </article>
+      </section><br>      
+    <section class="main-section" id="topic_2"><header>Topic 2</header>
+    <article>
+      <p>Some text goes here</p>
+      <p>Some text goes here</p>
+      <ul>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+      <li>4</li>
+      <li>5</li>
+      </ul>
+      </article>
+      </section>
+    <section class="main-section" id="topic_3"><header>Topic 3</header>
+    <article>
+      <p>Some text goes here</p>
+      <p>Some text goes here</p>
+      </article>
+      </section>
+    <section class="main-section" id="topic_4"><header>Topic 4</header>
+    <article>
+      <p>Some text goes here</p>
+      <p>Some text goes here</p>
+      </article>
+      </section>
+  </main>
+  </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media (max-width: 768px) {}
+body {background-color: #0c2402; color: #ffffff; font-size: 18px; font-family: Verdana;}
+nav >ul >li:hover {color: #f02695; }
+nav >ul >li {color: #06147a;}
+header {font-size: 20px; font-weight: bold; text-decoration: underline;}
+p {font-size: 16px;}
+.nav-link {color: #f02695;}
+
+** end of undefined **
+
